@@ -1,0 +1,23 @@
+/* h1{
+  background-color:red;
+  color: greenyellow;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.card {
+    height: 500px;
+    border-color: red;
+}
+
+.indic {
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    font-size: 20px;
+}
